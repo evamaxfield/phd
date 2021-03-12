@@ -2,10 +2,11 @@
 
 Hi, I am Jackson Maxfield Brown. I am a PhD Student (starting Autumn 2021)
 at the University of Washington Information School in the DataLab.
-I work under Dr. Nicholas Weber and Dr. Bill Howe researching open access
+I work under [Dr. Nicholas Weber](http://nicweber.info/) and
+[Dr. Bill Howe](https://homes.cs.washington.edu/~billhowe/) researching open access
 infrastructures largely pertaining to governments and sometimes research institutes.
 
-For more details about me, [see my website](https://jacksonmaxfield.github.io)
+For more details about me, [see my website](https://jacksonmaxfield.github.io).
 
 This repository is meant to act as a transparent record of my time throughout my
 PhD from application, acceptance, to student, and candidate (hopefully).
