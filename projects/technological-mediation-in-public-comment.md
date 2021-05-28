@@ -8,9 +8,10 @@
 
 ## Hypotheses
 
-1. There is a difference in pro vs con overtime allowance in public comment.
-2. Venue (In-person and online) mediates and removes or minimizes the difference in
-   pro vs con public comment overtime allowance.
+1. Remote meeting technology minimizes overtime allowance in public testimony.
+2. There is a measurable difference in public testimony overtime allowance in
+   pro vs con testimony depending on if the testimony matches the meeting
+   chair's position.
 
 ## Background
 
@@ -53,21 +54,40 @@ one viewpoint or another.
 
 #### Dataset Comments
 
-It would be useful to extract features from the audio as, an assumption would be that if a person's testimony was yelling, regardless of commenters `position_label`, they are likely to be violation enforced earlier, or the severity of their violation may be harsher.
+It would be useful to extract features from the audio as, an assumption would
+be that if a person's testimony was yelling, regardless of commenters
+`position_label`, they are likely to be violation enforced earlier, or the
+severity of their violation may be harsher.
 
-Adding `allowed_duration` and `real_duration` for each testimony is useful as there are common occurances of people "yielding their time" to other commenters.
+Adding `allowed_duration` and `real_duration` for each testimony is useful
+as there are common occurances of people "yielding their time" to other
+commenters.
 
-To track in-person vs. remote testimony we can use the `testimony_environment` column which will only support "local", "remote-audio", and "remote-video" options. In doing so, we can limit the amount of variables while also understanding if there are overtime allowance bias specific to the environment.
+To track in-person vs. remote testimony we can use the
+`testimony_environment` column which will only support "local",
+"remote-audio", and "remote-video" options. In doing so, we can limit the
+amount of variables while also understanding if there are overtime allowance
+bias specific to the environment.
 
-Finally, keeping `legislation_decision_result` and `meeting_chair_decision` as there is likely bias in which comments are allowed overtime based off of the pre-planned "general understanding of bill passage." (I.E. it is common for legislation in Seattle to only make it to Full Council if it will be passed.)
+Finally, keeping `legislation_decision_result` and `meeting_chair_decision`
+as there is likely bias in which comments are allowed overtime based off of
+the pre-planned "general understanding of bill passage." (I.E. it is common
+for legislation in Seattle to only make it to Full Council if it will be passed.)
 
 #### Dataset Construction
 
-In most cases, annotating the `position_label` would hopefully not be too difficult as many legislative bodies keep record of public commenters and their commenting position. We could either ask for that information, or, pull from an API.
+In most cases, annotating the `position_label` would hopefully not be too
+difficult as many legislative bodies keep record of public commenters and
+their commenting position. We could either ask for that information, or,
+pull from an API.
 
-It may be useful however to see if we can create a classifier to apply to data (which is likely faster and scales better) than waiting for a Clerk to return back to us and annotating a dataset like this would be relatively quick and easy.
+It may be useful however to see if we can create a classifier to apply to
+data (which is likely faster and scales better) than waiting for a Clerk to
+return back to us and annotating a dataset like this would be relatively
+quick and easy.
 
-Most everything else in this dataset can be computed or directly pulled from existing CDP resources.
+Most everything else in this dataset can be computed or directly pulled
+from existing CDP resources.
 
 ## Addtional Comments
 
