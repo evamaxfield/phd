@@ -100,3 +100,4 @@ allowances for certain bills and / or viewpoints.
 - [Arkansas House Hearing on Transgender Youth Bill, Father Arrested for Overtime](https://web.archive.org/web/20210429000235/https://www.lgbtqnation.com/2021/04/concerned-father-arrested-peacefully-testifying-arkansas-trans-health-care-ban/)
 - [Arkansas House Hearing on Transgender Youth Bill, Full Video](https://www.arkansashouse.org/watch-live) _2021.03.09 House Public Health, Welfare and Labor Committee, HB1570_
 - [Crosscut: Washington State Goes Fully Remote for Testimony](https://crosscut.com/politics/2020/11/how-wa-legislature-plans-go-remote-during-covid-19)
+- [Holding Hybrid Public Meetings](https://mrsc.org/Home/Stay-Informed/MRSC-Insight/April-2021/Holding-Hybrid-Public-Meetings.aspx)
