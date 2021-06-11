@@ -1,4 +1,4 @@
-# PhD Application Materials, Work, Projects, and Planning
+# PhD Application Materials and Research
 
 Hi, I am Jackson Maxfield Brown. I am a PhD Student (starting Autumn 2021)
 at the University of Washington Information School in the DataLab.
