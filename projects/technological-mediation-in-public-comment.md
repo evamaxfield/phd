@@ -101,3 +101,6 @@ allowances for certain bills and / or viewpoints.
 - [Arkansas House Hearing on Transgender Youth Bill, Full Video](https://www.arkansashouse.org/watch-live) _2021.03.09 House Public Health, Welfare and Labor Committee, HB1570_
 - [Crosscut: Washington State Goes Fully Remote for Testimony](https://crosscut.com/politics/2020/11/how-wa-legislature-plans-go-remote-during-covid-19)
 - [Holding Hybrid Public Meetings](https://mrsc.org/Home/Stay-Informed/MRSC-Insight/April-2021/Holding-Hybrid-Public-Meetings.aspx)
+- [Failure at holding hybrid meetings](https://twitter.com/GoldsteinStreet/status/1420536758618390532)
+- [Zoom Does Not Reduce Unequal Participation:
+  Evidence from Public Meeting Minutes](https://www.housingpolitics.com/research/online_meetings_participation.pdf)
