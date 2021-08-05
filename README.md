@@ -1,10 +1,13 @@
 # PhD Application Materials and Research
 
-Hi, I am Jackson Maxfield Brown. I am a PhD Student (starting Autumn 2021)
-at the University of Washington Information School in the DataLab.
-I work under [Dr. Nicholas Weber](http://nicweber.info/) and
-[Dr. Bill Howe](https://homes.cs.washington.edu/~billhowe/) researching open access
-infrastructures largely pertaining to governments and sometimes research institutes.
+Hi, I am Jackson Maxfield Brown.
+I am currently a PhD student at the
+[University of Washington Information School](https://ischool.uw.edu/)
+working under [Dr. Nicholas Weber](https://nicweber.info/) and
+[Dr. Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the
+[UW DataLab](https://datalab.ischool.uw.edu/). I research and build open
+access infrastructures largely pertaining to municipal governments
+and large research institutions.
 
 For more details about me, [see my website](https://jacksonmaxfield.github.io).
 
