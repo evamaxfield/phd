@@ -33,11 +33,20 @@ went overtime, the individual was muted, thus stopping their testimony entirely.
 
 ## Work Plans
 
-1. Determine and codify the rules of public commenting
-2. Find violations of rules and document how enforcement takes place
-3. Determine measurement system (features) that can be applied uniformly to
-   different venues to create dataset with
-4. Generate features and analyze to prove there is a casual determinant
+1. Work on a discourse segmentation pipeline (transcript -> sections of meeting):
+
+   - [Neural Discourse Segmentation](https://www.ijcai.org/proceedings/2019/0949.pdf)
+   - [Toward Fast and Accurate Neural Discourse Segmentation](https://github.com/PKU-TANGENT/NeuralEDUSeg)
+   - [Discourse Segmentation of Multi-Party Conversation](https://aclanthology.org/P03-1071.pdf)
+   - [Text Segmentation as a Supervised Learning Task](https://paperswithcode.com/paper/text-segmentation-as-a-supervised-learning)
+
+2. Given public comment section, match individual comments
+   with minutes items using entity recognition and semantic similarity.
+3. Determine and codify the rules of public commenting.
+4. Find violations of rules and document how enforcement takes place.
+5. Determine measurement system (features) that can be applied uniformly to
+   different venues to create dataset with.
+6. Generate features and analyze to prove there is a casual determinant.
 
 End result of this should be:
 A dataset showing lengths of time of comments and rule violation enforcement across
