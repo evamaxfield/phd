@@ -20,10 +20,10 @@ A central goal of these early projects should be to keep them relatively simple 
 
 I recognize that I have mainly "built" infrastructure and libraries before this and I lack core "research methods" knowledge.
 
-- [ ] CDP JOSS -- _in-review_
+- [x] CDP JOSS -- _published_ -- [https://doi.org/10.21105/joss.03904](https://doi.org/10.21105/joss.03904)
 - [ ] Campaign Websites Access Eval -- _in-progress_
-- [ ] Howe Lab -- _in-progress_
-- [ ] Minutes Item Alignment -- _in-progress_
+- [x] Howe Lab -- _submitted_
+- [ ] Minutes Item Segmentation -- _in-progress_
 - [ ] Controversial Datasets -- _planning_
 - [ ] Speaker Annotation
 
