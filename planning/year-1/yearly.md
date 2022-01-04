@@ -1,4 +1,4 @@
-# Year One Planning and Goals
+# Year One -- Planning and Goals
 
 ## Goals
 
@@ -21,6 +21,7 @@ A central goal of these early projects should be to keep them relatively simple 
 I recognize that I have mainly "built" infrastructure and libraries before this and I lack core "research methods" knowledge.
 
 - [x] CDP JOSS -- _published_ -- [https://doi.org/10.21105/joss.03904](https://doi.org/10.21105/joss.03904)
+- [ ] CDP JASIST -- _in-progress_
 - [ ] Campaign Websites Access Eval -- _in-progress_
 - [x] Howe Lab -- _submitted_
 - [ ] Minutes Item Segmentation -- _in-progress_
@@ -41,7 +42,7 @@ For BITS specifically, I want to see BITS produce one or two shared papers, cont
 
 ### Develop
 
-Developer early idea of dissertation and more specific research area. I have a general idea of what I am interested in: "open processing and open infrastructure, how it's built, how it's maintained, it's successes, and it's failures." However I have so far only really focused on Council Data Project which, while CDP is "open infrastructure" in my opinion, I can't focus too heavily on it as it is just one project in the world of "open infrastructure" problems.
+Develop an early idea of dissertation and more specific research area. I have a general idea of what I am interested in: "open processing and open infrastructure, how it's built, how it's maintained, it's successes, and it's failures." However I have so far only really focused on Council Data Project which, while CDP is "open infrastructure" in my opinion, I can't focus too heavily on it as it is just one project in the world of "open infrastructure" problems.
 
 Planning for future research to address these concerns will help reduce my stress long term.
 
@@ -55,7 +56,7 @@ I don't just want to stick to the iSchool community, many of my projects have op
 
 Additionally, in doing so, I should talk about my own work and make a concerted effort to meet other professors to figure out who may be good for my advising committee.
 
-- [ ] Reach out to other labs / professors to ask to join meetings
+- [x] Reach out to other labs / professors to ask to join meetings
 - [ ] Take a course outside of iSchool in Law, Public Policy, Linguistics, and CSE
 - [ ] Give two to three talks on existing and upcoming work
 - [ ] Meet professors I would like to have as my advisors for teaching practicum and research practicum in spring quarter or year two.
