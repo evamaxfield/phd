@@ -1,6 +1,6 @@
 # PhD Application Materials and Research
 
-Hi, I am Jackson Maxfield Brown.
+Hi, my name is Eva Maxfield Brown.
 I am currently a PhD student at the
 [University of Washington Information School](https://ischool.uw.edu/)
 working under [Dr. Nicholas Weber](https://nicweber.info/) and
@@ -9,7 +9,7 @@ working under [Dr. Nicholas Weber](https://nicweber.info/) and
 access infrastructures largely pertaining to municipal governments
 and large research institutions.
 
-For more details about me, [see my website](https://jacksonmaxfield.github.io).
+For more details about me, [see my website](https://evamaxfield.github.io).
 
 This repository is meant to act as a transparent record of my time throughout my
 PhD from application, acceptance, to student, and candidate (hopefully).
