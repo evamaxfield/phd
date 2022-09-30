@@ -21,12 +21,12 @@ A central goal of these early projects should be to keep them relatively simple 
 I recognize that I have mainly "built" infrastructure and libraries before this and I lack core "research methods" knowledge.
 
 - [x] CDP JOSS -- _published_ -- [https://doi.org/10.21105/joss.03904](https://doi.org/10.21105/joss.03904)
-- [ ] CDP JASIST -- _in-progress_
-- [ ] Campaign Websites Access Eval -- _in-progress_
-- [x] Howe Lab -- _submitted_
-- [ ] Minutes Item Segmentation -- _in-progress_
-- [ ] Controversial Datasets -- _planning_
-- [ ] Speaker Annotation
+- [X] CDP JASIST -- _published in proceedings of ASIS&T AM 22 in-progress for extension for JASIST_
+- [ ] Campaign Websites Access Eval -- _abandoned_
+- [x] Howe Lab -- _published_
+- [ ] Minutes Item Segmentation -- _abandoned_
+- [ ] Controversial Datasets -- _abandoned_
+- [ ] Speaker Annotation -- _method in-progress for JOSS, analysis in-progress for CSCW_
 
 ### Support
 
@@ -38,7 +38,7 @@ For BITS specifically, I want to see BITS produce one or two shared papers, cont
 - [ ] Longer term planning for lab w/ Nic
 - [ ] BITS lab website
 - [ ] Supporting author on lab and cohort papers
-- [ ] Help plan and initiate cohort events to build cohort community
+- [x] Help plan and initiate cohort events to build cohort community
 
 ### Develop
 
@@ -58,8 +58,8 @@ Additionally, in doing so, I should talk about my own work and make a concerted 
 
 - [x] Reach out to other labs / professors to ask to join meetings
 - [ ] Take a course outside of iSchool in Law, Public Policy, Linguistics, and CSE
-- [ ] Give two to three talks on existing and upcoming work
-- [ ] Meet professors I would like to have as my advisors for teaching practicum and research practicum in spring quarter or year two.
+- [x] Give two to three talks on existing and upcoming work
+- [x] Meet professors I would like to have as my advisors for teaching practicum and research practicum in spring quarter or year two.
 
 ### Council Data Project
 
@@ -69,7 +69,7 @@ Additionally as CDP grows, managing the project will become more of a challenge 
 
 While I have personal goals for growing CDP utilization for the general populace that each instance serves, in a research capacity, I want to see more instances and a prototype or plan for a dataset management API.
 
-- [ ] Deploy five more instances
-- [ ] Have basic Python API functions for constructing and managing datasets
+- [x] Deploy five more instances
+- [x] Have basic Python API functions for constructing and managing datasets
 - [ ] Have scalable governance model and grow the CDP team
-- [ ] Apply to a grant specifically for CDP development
+- [x] Apply to a grant specifically for CDP development
