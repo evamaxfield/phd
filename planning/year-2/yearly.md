@@ -64,6 +64,10 @@ This has been a large stressor for me recently. I have struggled with feeling lo
 - [ ] Better structure my days and my week. Create blocks of time to work on a single task if possible. Try to have a whole day for research work.
 - [ ] Create better structure for collaboration -- undergrads. Write a document to share that talks about how *I* work best so they understand and have them do the same. Be a better advisor and mentor to them.
 
+Sort of related: plan for applications to internships and grants.
+
+- [ ] Apply to AI2, Microsoft Research, Adobe Research, etc.
+
 ### Publish
 
 Many of the papers that I abandoned last year were in part due to my fear and unwillingness to "do the hard thing". I didn't want to learn how to conduct a literature review. I didn't want to learn how to outline and write a paper. In addition, _complete_ these papers.
