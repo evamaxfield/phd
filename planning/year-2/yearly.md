@@ -66,7 +66,7 @@ This has been a large stressor for me recently. I have struggled with feeling lo
 
 Sort of related: plan for applications to internships and grants.
 
-- [ ] Apply to AI2, Microsoft Research, Adobe Research, etc.
+- [ ] Apply to AI2, MSR, Adobe Research, etc.
 
 ### Publish
 
@@ -94,20 +94,22 @@ I learned a lot last year about how much I want collaborative environments. Even
 - [ ] Schedule more lab outings! I want to personally take this on and try to schedule something every couple of weeks.
 - [ ] Have more of an online presence. Even if it's unfinished work we should be able to talk about it!
 
-### Develop
-
-Develop an early idea of dissertation and more specific research area. I have a general idea of what I am interested in: "open processing and open infrastructure, how it's built, how it's maintained, it's successes, and it's failures." However I have so far only really focused on Council Data Project which, while CDP is "open infrastructure" in my opinion, I can't focus too heavily on it as it is just one project in the world of "open infrastructure" problems.
-
-Planning for future research to address these concerns will help reduce my stress long term.
-
-- [ ] Write a more specific research interest statement
-- [ ] Brainstorm a couple of "open processing" and "open infrastructure" research questions to work on next year
-- [ ] Plan for developing an infrastructure besides CDP, show knowledge in multiple domains that both require infrastructure development
-
 ### Connect
 
+Some Union / DSA / Cohort related. Some undergrad related. Some Prof and Advising related.
 
+- [ ] Try to be a bit more involved in Union when possible. Or at least be available to be called upon when needed.
+- [ ] Do at least some work for DSA / cohort stuff. Others are putting in work, I should try to contribute.
+- [ ] Try to involve more undergrads in the lab / more generally. Learn how best to involve others.
+- [ ] Check out a few more lab meetings from other labs!
 
 ### Council Data Project
 
+I think it's time I said it: I want to try and find a more community structure around CDP (application) side to a point where I can "step down" as BDFL. It takes a lot of time, energy, and I realize that I am also just not the best at growing the project. I do not have the management skills, the project management skills, etc. Ideally some of my role is split up into multiple different people and we can grow the team but I want to work towards.
 
+I want to focus more on the research side of CDP.
+
+- [ ] Get to a point in the CDP team where I can specifically say I would like for others to run meetings and projects without me. We did this a bit last year but it didn't really take.
+- [ ] Deliver the CDP dataset to a few poli sci people
+- [ ] Explore CDP with a different body (school board, etc.) with others
+- [ ] Run CDP dataset workshop
