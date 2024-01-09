@@ -6,7 +6,7 @@ If all goes to plan, I will take my general exam ~2.5 years into my PhD.
 
 ## Prospectus
 
-[Prospectus](prospectus.md)
+[Prospectus](./prospectus.pdf)
 
 The major point of feedback I received from my committee regarding my prospectus was that I should include more specific details about my proposed research. I gave them more details over email / messaging, but I haven't updated the prospectus with those new details.
 
